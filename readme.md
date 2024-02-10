@@ -1,0 +1,1 @@
+one of the initial project where i had meddled with cross functional technologies. leveraging cloud compatibilites of thingspeak and api tokens for each session had been generated and populated. while on network side we connected the hardware systems using ESP32's WIFI and Bluetooth functionalities to dispense cash as well as the RTOS feature and multicore computing was used .
